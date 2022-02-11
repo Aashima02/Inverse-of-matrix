@@ -37,7 +37,7 @@ print(np.linalg.inv(l1))
 ```
 
 ## OUTPUT:
-![output](./inverse.png)
+![inverse](https://user-images.githubusercontent.com/93427086/153589122-74157be6-accb-4ddf-9b4b-a1ae10082321.png)
 
 ## RESULT:
 Thus a program is written to find the inverse of the matrix.
